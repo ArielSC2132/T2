@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/ArielSC-bangunhitung/__init__.py
+src/ArielSC-bangunhitung/rumusnya.py
+src/ArielSC_bangunhitung.egg-info/PKG-INFO
+src/ArielSC_bangunhitung.egg-info/SOURCES.txt
+src/ArielSC_bangunhitung.egg-info/dependency_links.txt
+src/ArielSC_bangunhitung.egg-info/top_level.txt
